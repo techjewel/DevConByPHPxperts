@@ -82,7 +82,7 @@ nav.navbar-default {
     border-top: 0px solid transparent; }
 
 header {
-  background: #f4645f url("../img/background.jpg") top center repeat-x;
+  background: #f4645f url("../img/background.jpg") top center no-repeat;
   color: #fff;
   padding: 15em 0 5em;
   min-height: 90vh; }
@@ -698,13 +698,17 @@ footer {
   footer p.psecond {
     font-style: italic; }
 
-  .navbar-brand {
-    padding: 0px;
-    margin-top: 5px;
-  }
-  
-    .navbar {
-      min-height: 95px;
-  }
-  
+.navbar-brand {
+  padding: 0px;
+  margin-top: 5px; }
+
+.navbar {
+  min-height: 95px; }
+
+nav.navbar.navbar-default.scrolled img {
+  max-height: 50px; }
+
+nav.navbar.navbar-default.scrolled {
+  min-height: auto; }
+
 /*# sourceMappingURL=style.css.map */

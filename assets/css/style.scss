@@ -918,11 +918,19 @@ footer {
  }
 }
 
-  .navbar-brand {
-    padding: 0px;
-    margin-top: 5px;
-  }
-  
-  .navbar {
-      min-height: 95px;
-  }
+.navbar-brand {
+  padding: 0px;
+  margin-top: 5px;
+}
+
+.navbar {
+    min-height: 95px;
+}
+
+nav.navbar.navbar-default.scrolled img {
+  max-height: 50px;
+}
+
+nav.navbar.navbar-default.scrolled {
+  min-height: auto;
+}
