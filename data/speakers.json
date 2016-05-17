@@ -1,19 +1,5 @@
 {
   "speakers": [
-    {
-      "name": "Taylor Otwell",
-      "avatar": "assets/img/speakers/taylor-otwell.jpg",
-      "title": "Founder &amp; Creator of Laravel"
-    },
-    {
-      "name": "Taylor Otwell",
-      "avatar": "assets/img/speakers/taylor-otwell.jpg",
-      "title": "Founder &amp; Creator of Laravel"
-    },
-    {
-      "name": "Taylor Otwell",
-      "avatar": "assets/img/speakers/taylor-otwell.jpg",
-      "title": "Founder &amp; Creator of Laravel"
-    }
+
   ]
 }

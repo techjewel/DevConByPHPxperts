@@ -4,98 +4,21 @@
       "sponsor_type": "Gold",
       "color_code" : "#C98910",
       "brands": [
-        {
-          "name" : "PHPXperts",
-          "logo" : "assets/img/sponsors/phpxperts.png",
-          "url" : "https://github.com"
-        },
-        {
-          "name" : "PHPXperts",
-          "logo" : "assets/img/sponsors/phpxperts.png",
-          "url" : "https://github.com"
-        },
-        {
-          "name" : "PHPXperts",
-          "logo" : "assets/img/sponsors/phpxperts.png",
-          "url" : "https://github.com"
-        }
+
       ]
     },
     {
       "sponsor_type": "Silver",
       "color_code" : "#A8A8A8",
       "brands": [
-        {
-          "name" : "PHPXperts",
-          "logo" : "assets/img/sponsors/phpxperts.png",
-          "url" : "https://github.com"
-        },
-        {
-          "name" : "PHPXperts",
-          "logo" : "assets/img/sponsors/phpxperts.png",
-          "url" : "https://github.com"
-        },
-        {
-          "name" : "PHPXperts",
-          "logo" : "assets/img/sponsors/phpxperts.png",
-          "url" : "https://github.com"
-        },
-        {
-          "name" : "PHPXperts",
-          "logo" : "assets/img/sponsors/phpxperts.png",
-          "url" : "https://github.com"
-        },
-        {
-          "name" : "PHPXperts",
-          "logo" : "assets/img/sponsors/phpxperts.png",
-          "url" : "https://github.com"
-        }
+
       ]
     },
     {
       "sponsor_type": "Bronze",
       "color_code": "#965A38",
       "brands": [
-        {
-          "name" : "PHPXperts",
-          "logo" : "assets/img/sponsors/phpxperts.png",
-          "url" : "https://github.com"
-        },
-        {
-          "name" : "PHPXperts",
-          "logo" : "assets/img/sponsors/phpxperts.png",
-          "url" : "https://github.com"
-        },
-        {
-          "name" : "PHPXperts",
-          "logo" : "assets/img/sponsors/phpxperts.png",
-          "url" : "https://github.com"
-        },
-        {
-          "name" : "PHPXperts",
-          "logo" : "assets/img/sponsors/phpxperts.png",
-          "url" : "https://github.com"
-        },
-        {
-          "name" : "PHPXperts",
-          "logo" : "assets/img/sponsors/phpxperts.png",
-          "url" : "https://github.com"
-        },
-        {
-          "name" : "PHPXperts",
-          "logo" : "assets/img/sponsors/phpxperts.png",
-          "url" : "https://github.com"
-        },
-        {
-          "name" : "PHPXperts",
-          "logo" : "assets/img/sponsors/phpxperts.png",
-          "url" : "https://github.com"
-        },
-        {
-          "name" : "PHPXperts",
-          "logo" : "assets/img/sponsors/phpxperts.png",
-          "url" : "https://github.com"
-        }
+
       ]
     },
     {
@@ -103,44 +26,9 @@
       "color_code" : "#000",
       "brands": [
         {
-          "name" : "PHPXperts",
+          "name" : "phpXperts",
           "logo" : "assets/img/sponsors/phpxperts.png",
-          "url" : "https://github.com"
-        },
-        {
-          "name" : "PHPXperts",
-          "logo" : "assets/img/sponsors/phpxperts.png",
-          "url" : "https://github.com"
-        },
-        {
-          "name" : "PHPXperts",
-          "logo" : "assets/img/sponsors/phpxperts.png",
-          "url" : "https://github.com"
-        },
-        {
-          "name" : "PHPXperts",
-          "logo" : "assets/img/sponsors/phpxperts.png",
-          "url" : "https://github.com"
-        },
-        {
-          "name" : "PHPXperts",
-          "logo" : "assets/img/sponsors/phpxperts.png",
-          "url" : "https://github.com"
-        },
-        {
-          "name" : "PHPXperts",
-          "logo" : "assets/img/sponsors/phpxperts.png",
-          "url" : "https://github.com"
-        },
-        {
-          "name" : "PHPXperts",
-          "logo" : "assets/img/sponsors/phpxperts.png",
-          "url" : "https://github.com"
-        },
-        {
-          "name" : "PHPXperts",
-          "logo" : "assets/img/sponsors/phpxperts.png",
-          "url" : "https://github.com"
+          "url" : "https://www.facebook.com/groups/pxperts/"
         }
       ]
     }
