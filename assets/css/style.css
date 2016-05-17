@@ -82,7 +82,7 @@ nav.navbar-default {
     border-top: 0px solid transparent; }
 
 header {
-  background: #f4645f url("../img/background.jpg") top center no-repeat;
+  background: #f4645f url("../img/background.jpg") top center repeat-x;
   color: #fff;
   padding: 15em 0 5em;
   min-height: 90vh; }
@@ -698,4 +698,13 @@ footer {
   footer p.psecond {
     font-style: italic; }
 
+  .navbar-brand {
+    padding: 0px;
+    margin-top: 5px;
+  }
+  
+    .navbar {
+      min-height: 95px;
+  }
+  
 /*# sourceMappingURL=style.css.map */
